@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: web
-        image: shivampadaliya/gitops-web:v1
+        image: shivampadaliya/gitops-web:v2
         ports:
         - containerPort: 80
